@@ -1,8 +1,8 @@
 {
   "owner": "ed25519_pk1s4adp6ltehxkrdtt95rhlncyvn3jdwj5lcrsw8r5py5kuv7uwuwse7ngrx",
   "name": "Lotto Stake Pool",
-  "description": "Win The Lotto Every EPOCH With Ticker: LOTTO. We Are Low Fee, Solar Powered. Also check out Ticker: EPOCH Stakepool",
-  "ticker": "LOTTO",
-  "homepage": "https://epochpool.com",
+  "description": "Win with Lotto Stake Pool! Super Low 2% Fee, 100% Solar Powered. It's another EPOCH Stake Pool!",
+  "ticker": "Lotto",
+  "homepage": "https://epochpool",
   "pledge_address": "addr1skzh458ta0xu6cd4dvkswl70q3jwxf462nlqwpcuwsyjjm3nm3m36gt64ls"
 }
